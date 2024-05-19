@@ -22,6 +22,7 @@
 		CE91689D2BFA41C30033041F /* Roboto-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE9168902BFA41C30033041F /* Roboto-Bold.ttf */; };
 		CE91689E2BFA41C30033041F /* Roboto-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE9168912BFA41C30033041F /* Roboto-MediumItalic.ttf */; };
 		CE91689F2BFA41C30033041F /* Roboto-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE9168922BFA41C30033041F /* Roboto-BlackItalic.ttf */; };
+		CE9168A42BFA46030033041F /* Coordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE9168A32BFA46030033041F /* Coordinator.swift */; };
 		CEC9BC452BFA106C00D08519 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEC9BC442BFA106C00D08519 /* AppDelegate.swift */; };
 		CEC9BC472BFA106C00D08519 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEC9BC462BFA106C00D08519 /* SceneDelegate.swift */; };
 		CEC9BC492BFA106C00D08519 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEC9BC482BFA106C00D08519 /* ViewController.swift */; };
@@ -46,6 +47,7 @@
 		CE9168902BFA41C30033041F /* Roboto-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Bold.ttf"; sourceTree = "<group>"; };
 		CE9168912BFA41C30033041F /* Roboto-MediumItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-MediumItalic.ttf"; sourceTree = "<group>"; };
 		CE9168922BFA41C30033041F /* Roboto-BlackItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-BlackItalic.ttf"; sourceTree = "<group>"; };
+		CE9168A32BFA46030033041F /* Coordinator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Coordinator.swift; sourceTree = "<group>"; };
 		CEC9BC412BFA106C00D08519 /* BudgetProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BudgetProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEC9BC442BFA106C00D08519 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CEC9BC462BFA106C00D08519 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -87,6 +89,30 @@
 			path = Roboto;
 			sourceTree = "<group>";
 		};
+		CE9168A02BFA45A40033041F /* NavigationLayer */ = {
+			isa = PBXGroup;
+			children = (
+				CE9168A22BFA45BE0033041F /* Controllers */,
+				CE9168A12BFA45B20033041F /* Coordinators */,
+			);
+			path = NavigationLayer;
+			sourceTree = "<group>";
+		};
+		CE9168A12BFA45B20033041F /* Coordinators */ = {
+			isa = PBXGroup;
+			children = (
+				CE9168A32BFA46030033041F /* Coordinator.swift */,
+			);
+			path = Coordinators;
+			sourceTree = "<group>";
+		};
+		CE9168A22BFA45BE0033041F /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
 		CEC9BC382BFA106C00D08519 = {
 			isa = PBXGroup;
 			children = (
@@ -106,6 +132,7 @@
 		CEC9BC432BFA106C00D08519 /* BudgetProject */ = {
 			isa = PBXGroup;
 			children = (
+				CE9168A02BFA45A40033041F /* NavigationLayer */,
 				CEC9BC582BFA161900D08519 /* Resources */,
 				CEC9BC442BFA106C00D08519 /* AppDelegate.swift */,
 				CEC9BC462BFA106C00D08519 /* SceneDelegate.swift */,
@@ -233,6 +260,7 @@
 				CE9168842BFA41650033041F /* UIColor+Extension.swift in Sources */,
 				CE9168832BFA41640033041F /* UIFont+Extension.swift in Sources */,
 				CEC9BC472BFA106C00D08519 /* SceneDelegate.swift in Sources */,
+				CE9168A42BFA46030033041F /* Coordinator.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
