@@ -11,7 +11,7 @@ enum CoordinatorType {
     case app
     case onboarding
     case budget
-    case creditcalculator
+    case creditCalculator
     case aiHelper
     case setting
    
