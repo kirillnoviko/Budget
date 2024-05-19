@@ -10,11 +10,11 @@ import UIKit
 enum CoordinatorType {
     case app
     case onboarding
-    case login
-    case home
-    case order
-    case list
-    case profile
+    case budget
+    case creditcalculator
+    case aiHelper
+    case setting
+   
 }
 
 protocol CoordinatorProtocol: AnyObject {
