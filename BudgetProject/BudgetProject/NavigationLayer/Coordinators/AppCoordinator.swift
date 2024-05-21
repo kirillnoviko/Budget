@@ -11,7 +11,7 @@ class AppCoordinator: Coordinator {
    
     override func start() {
       
-        showMainFlow()
+        showOnboardingFlow()
     }
     
     override func finish() {

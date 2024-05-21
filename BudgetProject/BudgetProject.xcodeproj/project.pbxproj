@@ -30,6 +30,8 @@
 		CE9168AE2BFA61290033041F /* AiHelperCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE9168AD2BFA61290033041F /* AiHelperCoordinator.swift */; };
 		CE9168B02BFA613F0033041F /* SettingCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE9168AF2BFA613F0033041F /* SettingCoordinator.swift */; };
 		CE9168B22BFA63120033041F /* TabBapController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE9168B12BFA63120033041F /* TabBapController.swift */; };
+		CE9168B62BFA6DB80033041F /* OnboardingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE9168B52BFA6DB80033041F /* OnboardingViewController.swift */; };
+		CE9168B82BFA6DDE0033041F /* OnboardingViewPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE9168B72BFA6DDE0033041F /* OnboardingViewPresenter.swift */; };
 		CEC9BC452BFA106C00D08519 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEC9BC442BFA106C00D08519 /* AppDelegate.swift */; };
 		CEC9BC472BFA106C00D08519 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEC9BC462BFA106C00D08519 /* SceneDelegate.swift */; };
 		CEC9BC492BFA106C00D08519 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEC9BC482BFA106C00D08519 /* ViewController.swift */; };
@@ -62,6 +64,8 @@
 		CE9168AD2BFA61290033041F /* AiHelperCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AiHelperCoordinator.swift; sourceTree = "<group>"; };
 		CE9168AF2BFA613F0033041F /* SettingCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingCoordinator.swift; sourceTree = "<group>"; };
 		CE9168B12BFA63120033041F /* TabBapController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBapController.swift; sourceTree = "<group>"; };
+		CE9168B52BFA6DB80033041F /* OnboardingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingViewController.swift; sourceTree = "<group>"; };
+		CE9168B72BFA6DDE0033041F /* OnboardingViewPresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingViewPresenter.swift; sourceTree = "<group>"; };
 		CEC9BC412BFA106C00D08519 /* BudgetProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BudgetProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEC9BC442BFA106C00D08519 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CEC9BC462BFA106C00D08519 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -134,6 +138,23 @@
 			path = Controllers;
 			sourceTree = "<group>";
 		};
+		CE9168B32BFA6D6D0033041F /* UILayer */ = {
+			isa = PBXGroup;
+			children = (
+				CE9168B42BFA6D8D0033041F /* Onboarding */,
+			);
+			path = UILayer;
+			sourceTree = "<group>";
+		};
+		CE9168B42BFA6D8D0033041F /* Onboarding */ = {
+			isa = PBXGroup;
+			children = (
+				CE9168B52BFA6DB80033041F /* OnboardingViewController.swift */,
+				CE9168B72BFA6DDE0033041F /* OnboardingViewPresenter.swift */,
+			);
+			path = Onboarding;
+			sourceTree = "<group>";
+		};
 		CEC9BC382BFA106C00D08519 = {
 			isa = PBXGroup;
 			children = (
@@ -153,6 +174,7 @@
 		CEC9BC432BFA106C00D08519 /* BudgetProject */ = {
 			isa = PBXGroup;
 			children = (
+				CE9168B32BFA6D6D0033041F /* UILayer */,
 				CE9168A02BFA45A40033041F /* NavigationLayer */,
 				CEC9BC582BFA161900D08519 /* Resources */,
 				CEC9BC442BFA106C00D08519 /* AppDelegate.swift */,
@@ -282,12 +304,14 @@
 				CE9168AC2BFA61080033041F /* CreditCalculatorCoordinator.swift in Sources */,
 				CE9168B22BFA63120033041F /* TabBapController.swift in Sources */,
 				CE9168A82BFA4B280033041F /* OnboardingCoordinator.swift in Sources */,
+				CE9168B62BFA6DB80033041F /* OnboardingViewController.swift in Sources */,
 				CE9168A62BFA49930033041F /* AppCoordinator.swift in Sources */,
 				CE9168832BFA41640033041F /* UIFont+Extension.swift in Sources */,
 				CE9168AA2BFA60DD0033041F /* BudgetCoordinator.swift in Sources */,
 				CEC9BC472BFA106C00D08519 /* SceneDelegate.swift in Sources */,
 				CE9168AE2BFA61290033041F /* AiHelperCoordinator.swift in Sources */,
 				CE9168A42BFA46030033041F /* Coordinator.swift in Sources */,
+				CE9168B82BFA6DDE0033041F /* OnboardingViewPresenter.swift in Sources */,
 				CE9168B02BFA613F0033041F /* SettingCoordinator.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
