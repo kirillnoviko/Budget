@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C883766A-E60E-40CC-87CB-605DC5CA81D4"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A247FE9C-0E46-4765-8EF9-3915F7C4C291"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BudgetProject/UILayer/Scenes/BudgetScene/BudgetViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "286"
+            endingLineNumber = "286"
+            landmarkName = "updateView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9F3957B8-B57C-4BB9-8FB2-9B8E54F91474"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BudgetProject/UILayer/Scenes/BudgetScene/BudgetViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "287"
+            endingLineNumber = "287"
+            landmarkName = "updateView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "81988FC5-2FD4-4966-BF29-440D9FC57FA4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BudgetProject/UILayer/Scenes/BudgetScene/BudgetViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "239"
+            endingLineNumber = "239"
+            landmarkName = "setupPieChartView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9E5A0D15-5142-4B21-B1A0-9E0B7E204CC8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BudgetProject/UILayer/Scenes/BudgetScene/BudgetViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "238"
+            endingLineNumber = "238"
+            landmarkName = "setupPieChartView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CC2067A6-E83F-40D0-814B-28C9C36A9C50"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BudgetProject/UILayer/Scenes/BudgetScene/BudgetViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "240"
+            endingLineNumber = "240"
+            landmarkName = "setupPieChartView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4A8B691D-5491-474B-951E-585FF036FAE5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BudgetProject/UILayer/Scenes/BudgetScene/BudgetViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "236"
+            endingLineNumber = "236"
+            landmarkName = "setupPieChartView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C87FE15E-7988-4EFC-885D-951DB3846E53"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BudgetProject/UILayer/Scenes/BudgetScene/BudgetViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "235"
+            endingLineNumber = "235"
+            landmarkName = "setupPieChartView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "66EF4D49-7238-4376-A26A-1CFE57374B91"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BudgetProject/UILayer/Scenes/BudgetScene/BudgetViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "242"
+            endingLineNumber = "242"
+            landmarkName = "setupPieChartView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3AA297C6-0662-44D3-89A6-00734A3753EC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BudgetProject/UILayer/Scenes/BudgetScene/BudgetViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "241"
+            endingLineNumber = "241"
+            landmarkName = "setupPieChartView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "214F938B-6DA2-4E50-A299-30B9A6323275"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BudgetProject/UILayer/Scenes/BudgetScene/BudgetViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "244"
+            endingLineNumber = "244"
+            landmarkName = "BudgetViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D7CE8690-A281-4A90-A210-BC187304381F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BudgetProject/NavigationLayer/Coordinators/CreditCalculatorCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "showCreditScene()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "598539E2-4F38-4E9E-9BDC-40FC46A414F1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BudgetProject/NavigationLayer/Coordinators/CreditCalculatorCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "showCreditScene()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D760121D-B176-4FFE-B75B-EB94B4D87E96"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BudgetProject/NavigationLayer/Coordinators/CreditCalculatorCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "showCreditScene()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7165FF52-F52E-4CE4-8580-F86EA2D41C8B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BudgetProject/NavigationLayer/Coordinators/CreditCalculatorCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "showCreditScene()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5934C62E-4156-4E64-A46D-5B7A6AC9B1F2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BudgetProject/NavigationLayer/Coordinators/CreditCalculatorCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "showCreditScene()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6683B941-1154-4A97-B489-020E6E17FB4E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BudgetProject/UILayer/Scenes/CreditCalculatorScene/CreditCalculatorControlller.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "218"
+            endingLineNumber = "218"
+            landmarkName = "calculateDifferentiatedPayment(amount:monthlyInterestRate:numberOfPayments:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6683B941-1154-4A97-B489-020E6E17FB4E - b8f125e408be5bd6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BudgetProject.CreditCalculatorControlller.calculateDifferentiatedPayment(amount: Swift.Double, monthlyInterestRate: Swift.Double, numberOfPayments: Swift.Int) -&gt; Swift.Double"
+                  moduleName = "BudgetProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Budget/BudgetProject/BudgetProject/UILayer/Scenes/CreditCalculatorScene/CreditCalculatorControlller.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "6683B941-1154-4A97-B489-020E6E17FB4E - b8f125e408be5bd6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BudgetProject.CreditCalculatorControlller.calculateDifferentiatedPayment(amount: Swift.Double, monthlyInterestRate: Swift.Double, numberOfPayments: Swift.Int) -&gt; Swift.Double"
+                  moduleName = "BudgetProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Budget/BudgetProject/BudgetProject/UILayer/Scenes/CreditCalculatorScene/CreditCalculatorControlller.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "73">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "44E7FB4D-706E-486A-8D1B-5C395B7FF0C7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BudgetProject/UILayer/Scenes/CreditCalculatorScene/CreditCalculatorControlller.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "219"
+            endingLineNumber = "219"
+            landmarkName = "calculateDifferentiatedPayment(amount:monthlyInterestRate:numberOfPayments:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "44E7FB4D-706E-486A-8D1B-5C395B7FF0C7 - b8f125e408be5bb7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BudgetProject.CreditCalculatorControlller.calculateDifferentiatedPayment(amount: Swift.Double, monthlyInterestRate: Swift.Double, numberOfPayments: Swift.Int) -&gt; Swift.Double"
+                  moduleName = "BudgetProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Budget/BudgetProject/BudgetProject/UILayer/Scenes/CreditCalculatorScene/CreditCalculatorControlller.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "93">
+               </Location>
+               <Location
+                  uuid = "44E7FB4D-706E-486A-8D1B-5C395B7FF0C7 - b8f125e408be5bb7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BudgetProject.CreditCalculatorControlller.calculateDifferentiatedPayment(amount: Swift.Double, monthlyInterestRate: Swift.Double, numberOfPayments: Swift.Int) -&gt; Swift.Double"
+                  moduleName = "BudgetProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Budget/BudgetProject/BudgetProject/UILayer/Scenes/CreditCalculatorScene/CreditCalculatorControlller.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "90">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E3DF135A-DC69-4D65-989B-2523DBE6CA62"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BudgetProject/UILayer/Scenes/CreditCalculatorScene/CreditCalculatorControlller.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "220"
+            endingLineNumber = "220"
+            landmarkName = "calculateDifferentiatedPayment(amount:monthlyInterestRate:numberOfPayments:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E3DF135A-DC69-4D65-989B-2523DBE6CA62 - b8f125e408be5b94"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BudgetProject.CreditCalculatorControlller.calculateDifferentiatedPayment(amount: Swift.Double, monthlyInterestRate: Swift.Double, numberOfPayments: Swift.Int) -&gt; Swift.Double"
+                  moduleName = "BudgetProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Budget/BudgetProject/BudgetProject/UILayer/Scenes/CreditCalculatorScene/CreditCalculatorControlller.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  uuid = "E3DF135A-DC69-4D65-989B-2523DBE6CA62 - b8f125e408be5b94"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BudgetProject.CreditCalculatorControlller.calculateDifferentiatedPayment(amount: Swift.Double, monthlyInterestRate: Swift.Double, numberOfPayments: Swift.Int) -&gt; Swift.Double"
+                  moduleName = "BudgetProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Budget/BudgetProject/BudgetProject/UILayer/Scenes/CreditCalculatorScene/CreditCalculatorControlller.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "125">
+               </Location>
+               <Location
+                  uuid = "E3DF135A-DC69-4D65-989B-2523DBE6CA62 - b8f125e408be5b94"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BudgetProject.CreditCalculatorControlller.calculateDifferentiatedPayment(amount: Swift.Double, monthlyInterestRate: Swift.Double, numberOfPayments: Swift.Int) -&gt; Swift.Double"
+                  moduleName = "BudgetProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Budget/BudgetProject/BudgetProject/UILayer/Scenes/CreditCalculatorScene/CreditCalculatorControlller.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "122">
+               </Location>
+               <Location
+                  uuid = "E3DF135A-DC69-4D65-989B-2523DBE6CA62 - b8f125e408be5b94"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BudgetProject.CreditCalculatorControlller.calculateDifferentiatedPayment(amount: Swift.Double, monthlyInterestRate: Swift.Double, numberOfPayments: Swift.Int) -&gt; Swift.Double"
+                  moduleName = "BudgetProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Budget/BudgetProject/BudgetProject/UILayer/Scenes/CreditCalculatorScene/CreditCalculatorControlller.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "103">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

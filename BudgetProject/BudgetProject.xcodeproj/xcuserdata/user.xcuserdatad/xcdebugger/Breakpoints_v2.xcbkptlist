@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1015E3BF-FE3F-4B32-8FC9-AD47E973EACD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AC225EC7-865C-496B-BCA4-DE6BFD5C3737"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BudgetProject/NavigationLayer/Coordinators/OnboardingCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "finish()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AC225EC7-865C-496B-BCA4-DE6BFD5C3737 - c2bb1d70408ed1ec"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BudgetProject.OnboardingCoordinator.finish() -&gt; ()"
+                  moduleName = "BudgetProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Budget/BudgetProject/BudgetProject/NavigationLayer/Coordinators/OnboardingCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "357">
+               </Location>
+               <Location
+                  uuid = "AC225EC7-865C-496B-BCA4-DE6BFD5C3737 - c2bb1d70408ed1ec"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BudgetProject.OnboardingCoordinator.finish() -&gt; ()"
+                  moduleName = "BudgetProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Budget/BudgetProject/BudgetProject/NavigationLayer/Coordinators/OnboardingCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "217">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F9D6338-FE01-4C37-9E7C-6DBAA60279AD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BudgetProject/NavigationLayer/Coordinators/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "coordinatorDidFinish(childCoordinatro:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C90D992C-BB83-4EEB-AF8E-335118A10F34"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BudgetProject/NavigationLayer/Coordinators/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "coordinatorDidFinish(childCoordinatro:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CC78E0AF-8A97-4061-AFD9-1745D940F492"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BudgetProject/NavigationLayer/Coordinators/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "coordinatorDidFinish(childCoordinatro:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5FF6942A-2EC7-423B-82DF-0CAAFF07B8FA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BudgetProject/NavigationLayer/Coordinators/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "coordinatorDidFinish(childCoordinatro:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4FADE633-356F-49B7-94B7-C224E888CBCF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BudgetProject/NavigationLayer/Coordinators/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "coordinatorDidFinish(childCoordinatro:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C3AC9C69-BE1B-407D-9AC7-472A0D457BB8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BudgetProject/NavigationLayer/Coordinators/OnboardingCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "finish()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6A4A2995-C296-4DD7-99BD-D6B5A8C163DC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BudgetProject/NavigationLayer/Coordinators/OnboardingCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "finish()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FE24BE31-996A-47FE-9EB5-7F13AF4CFF6D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BudgetProject/NavigationLayer/Coordinators/OnboardingCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "showOnboarding()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C8BB36A0-B065-462E-8C30-479EDB0E1BA0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BudgetProject/UILayer/Onboarding/OnboardingViewPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "init(coordinator:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C8BB36A0-B065-462E-8C30-479EDB0E1BA0 - 73e17cf303e991fd"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BudgetProject.OnboardingViewPresenter.init(coordinator: Swift.Optional&lt;BudgetProject.OnboardingCoordinator&gt;) -&gt; BudgetProject.OnboardingViewPresenter"
+                  moduleName = "BudgetProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Budget/BudgetProject/BudgetProject/UILayer/Onboarding/OnboardingViewPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "94">
+               </Location>
+               <Location
+                  uuid = "C8BB36A0-B065-462E-8C30-479EDB0E1BA0 - 73e17cf303e991fd"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BudgetProject.OnboardingViewPresenter.init(coordinator: Swift.Optional&lt;BudgetProject.OnboardingCoordinator&gt;) -&gt; BudgetProject.OnboardingViewPresenter"
+                  moduleName = "BudgetProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Budget/BudgetProject/BudgetProject/UILayer/Onboarding/OnboardingViewPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "61ACE993-34A7-4DB6-ACEE-02C29FB97887"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BudgetProject/NavigationLayer/Coordinators/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "coordinatorDidFinish(childCoordinatro:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5355DDE9-E08D-43EA-8E0F-22C8C922193E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BudgetProject/UILayer/SceneFactory/SceneFactory.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "124"
+            endingLineNumber = "124"
+            landmarkName = "createGradientIconImage(icon:gradientColors:gradientLocations:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BE4589A4-C339-4819-8D13-663BF51B6B23"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BudgetProject/UILayer/SceneFactory/SceneFactory.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
+            landmarkName = "createGradientIconImage(icon:gradientColors:gradientLocations:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58F2C08F-F671-41DE-87CA-249F0C888563"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BudgetProject/UILayer/SceneFactory/SceneFactory.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "127"
+            endingLineNumber = "127"
+            landmarkName = "createGradientIconImage(icon:gradientColors:gradientLocations:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "07284543-E0C9-4897-B691-978A3AAF86EF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BudgetProject/UILayer/SceneFactory/SceneFactory.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "128"
+            endingLineNumber = "128"
+            landmarkName = "createGradientIconImage(icon:gradientColors:gradientLocations:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7C22FDD9-FFD6-4B19-8ECC-926DD2D7232C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BudgetProject/UILayer/SceneFactory/SceneFactory.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "135"
+            endingLineNumber = "135"
+            landmarkName = "createGradientIconImage(icon:gradientColors:gradientLocations:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2438D37F-F1BA-490D-99B7-0E720ED47402"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BudgetProject/UILayer/SceneFactory/SceneFactory.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "createGradientIconImage(icon:gradientColors:gradientLocations:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DF35F6A4-3FE9-4C3F-88D8-B2B81576F0C2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BudgetProject/UILayer/SceneFactory/SceneFactory.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "createGradientImage(size:colors:locations:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DF35F6A4-3FE9-4C3F-88D8-B2B81576F0C2 - 7ff3c05f4aba69dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static BudgetProject.SceneFactory.makeOnboardingScene(coordinator: BudgetProject.OnboardingCoordinator) -&gt; BudgetProject.OnboardingViewController"
+                  moduleName = "BudgetProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Budget/BudgetProject/BudgetProject/UILayer/SceneFactory/SceneFactory.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "2061">
+               </Location>
+               <Location
+                  uuid = "DF35F6A4-3FE9-4C3F-88D8-B2B81576F0C2 - be14a95793b52c13"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static BudgetProject.SceneFactory.createGradientImage(size: __C.CGSize, colors: Swift.Array&lt;__C.UIColor&gt;, locations: Swift.Array&lt;__C.NSNumber&gt;) -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "BudgetProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Budget/BudgetProject/BudgetProject/UILayer/SceneFactory/SceneFactory.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "553">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6068231C-611F-418B-B603-4784320A2CDF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BudgetProject/UILayer/SceneFactory/SceneFactory.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "createGradientImage(size:colors:locations:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6068231C-611F-418B-B603-4784320A2CDF - 7ff3c05f4aba69dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static BudgetProject.SceneFactory.makeOnboardingScene(coordinator: BudgetProject.OnboardingCoordinator) -&gt; BudgetProject.OnboardingViewController"
+                  moduleName = "BudgetProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Budget/BudgetProject/BudgetProject/UILayer/SceneFactory/SceneFactory.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "2061">
+               </Location>
+               <Location
+                  uuid = "6068231C-611F-418B-B603-4784320A2CDF - be14a95793b52ff2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static BudgetProject.SceneFactory.createGradientImage(size: __C.CGSize, colors: Swift.Array&lt;__C.UIColor&gt;, locations: Swift.Array&lt;__C.NSNumber&gt;) -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "BudgetProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Budget/BudgetProject/BudgetProject/UILayer/SceneFactory/SceneFactory.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "622">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B7826DAA-116A-4DB8-8D84-9ED7A2A56A80"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BudgetProject/UILayer/SceneFactory/SceneFactory.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "createGradientImage(size:colors:locations:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3DF79E1F-75DA-41F4-905A-E3084D6895E6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BudgetProject/UILayer/SceneFactory/SceneFactory.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "createGradientImage(size:colors:locations:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3DF79E1F-75DA-41F4-905A-E3084D6895E6 - 7ff3c05f4aba6a7b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static BudgetProject.SceneFactory.makeOnboardingScene(coordinator: BudgetProject.OnboardingCoordinator) -&gt; BudgetProject.OnboardingViewController"
+                  moduleName = "BudgetProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Budget/BudgetProject/BudgetProject/UILayer/SceneFactory/SceneFactory.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "123"
+                  endingLineNumber = "123"
+                  offsetFromSymbolStart = "1928">
+               </Location>
+               <Location
+                  uuid = "3DF79E1F-75DA-41F4-905A-E3084D6895E6 - be14a95793b52c34"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static BudgetProject.SceneFactory.createGradientImage(size: __C.CGSize, colors: Swift.Array&lt;__C.UIColor&gt;, locations: Swift.Array&lt;__C.NSNumber&gt;) -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "BudgetProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Budget/BudgetProject/BudgetProject/UILayer/SceneFactory/SceneFactory.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "548">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "234A9CE1-0DF5-4F53-9212-9426B31EF4A6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BudgetProject/UILayer/SceneFactory/SceneFactory.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "createGradientImage(size:colors:locations:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "234A9CE1-0DF5-4F53-9212-9426B31EF4A6 - 7ff3c05f4aba6ab9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static BudgetProject.SceneFactory.makeOnboardingScene(coordinator: BudgetProject.OnboardingCoordinator) -&gt; BudgetProject.OnboardingViewController"
+                  moduleName = "BudgetProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Budget/BudgetProject/BudgetProject/UILayer/SceneFactory/SceneFactory.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "1888">
+               </Location>
+               <Location
+                  uuid = "234A9CE1-0DF5-4F53-9212-9426B31EF4A6 - be14a95793b52c97"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static BudgetProject.SceneFactory.createGradientImage(size: __C.CGSize, colors: Swift.Array&lt;__C.UIColor&gt;, locations: Swift.Array&lt;__C.NSNumber&gt;) -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "BudgetProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Budget/BudgetProject/BudgetProject/UILayer/SceneFactory/SceneFactory.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "271">
+               </Location>
+               <Location
+                  uuid = "234A9CE1-0DF5-4F53-9212-9426B31EF4A6 - 77b3856c8ba5f480"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIColor) -&gt; Any in static BudgetProject.SceneFactory.createGradientImage(size: __C.CGSize, colors: Swift.Array&lt;__C.UIColor&gt;, locations: Swift.Array&lt;__C.NSNumber&gt;) -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "BudgetProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Budget/BudgetProject/BudgetProject/UILayer/SceneFactory/SceneFactory.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F7FF675-6EF3-4795-995D-49C11D174B71"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BudgetProject/UILayer/SceneFactory/SceneFactory.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "129"
+            endingLineNumber = "129"
+            landmarkName = "createGradientIconImage(icon:gradientColors:gradientLocations:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0AA2B275-5DE0-4C30-8BFE-CD513925CD89"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BudgetProject/UILayer/SceneFactory/SceneFactory.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "130"
+            endingLineNumber = "130"
+            landmarkName = "createGradientIconImage(icon:gradientColors:gradientLocations:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
